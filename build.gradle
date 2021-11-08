@@ -16,15 +16,15 @@ apply plugin: 'java'
 
 // -----------------------------------------------------------------
 //  **    Edit Here:    **
-version = '0.0'
-group = 'com.otg.presetpacker'
-archivesBaseName = 'Preset-Name'
-description = "description"
+version = '2.2'
+group = 'org.infotoast.nether365'
+archivesBaseName = 'Nether365'
+description = "Spooky 256 block high nether preset with OTG"
 ext {
-    credits = "credits"
-    author = "author"
-    modId = "presetname"
-    modDisplayName = "Preset Name"
+    credits = "Frank"
+    author = "Frank"
+    modId = "nether365"
+    modDisplayName = "Nether365"
 }
 // ----------------------------------------------------------------
 
