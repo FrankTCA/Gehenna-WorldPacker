@@ -1,6 +1,6 @@
 [submodule "Presets/Presets/Nether365"]
 	path = Presets/Presets/Nether365
 	url = https://github.com/FrankTCA/Nether365
-[submodule "Presets/Nether365"]
-	path = Presets/Nether365
-	url = https://github.com/FrankTCA/Nether365
+[submodule "Presets/Gehenna"]
+	path = Presets/Gehenna
+	url = https://github.com/FrankTCA/Gehenna.git

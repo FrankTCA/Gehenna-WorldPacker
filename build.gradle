@@ -16,15 +16,15 @@ apply plugin: 'java'
 
 // -----------------------------------------------------------------
 //  **    Edit Here:    **
-version = '3.5'
-group = 'org.infotoast.nether365'
-archivesBaseName = 'Nether365'
+version = '4.6'
+group = 'org.infotoast.gehenna'
+archivesBaseName = 'Gehenna'
 description = "Spooky 256 block high nether preset with OTG"
 ext {
     credits = "Frank"
     author = "Frank"
-    modId = "nether365"
-    modDisplayName = "Nether365"
+    modId = "gehenna"
+    modDisplayName = "Gehenna"
 }
 // ----------------------------------------------------------------
 
