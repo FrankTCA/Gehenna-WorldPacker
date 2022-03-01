@@ -17,7 +17,6 @@ apply plugin: 'java'
 
 // -----------------------------------------------------------------
 //  **    Edit Here:    **
-<<<<<<< HEAD
 version = '9.16'
 group = 'org.infotoast.gehenna'
 archivesBaseName = 'Gehenna'
