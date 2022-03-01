@@ -16,7 +16,7 @@ apply plugin: 'java'
 
 // -----------------------------------------------------------------
 //  **    Edit Here:    **
-version = '9.15'
+version = '9.16'
 group = 'org.infotoast.gehenna'
 archivesBaseName = 'Gehenna'
 description = "Spooky 256 block high nether preset with OTG"
